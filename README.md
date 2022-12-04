@@ -3,8 +3,8 @@
 ## Reflection 
 
 ## Log
-
-##Ephemera
+Admittedly, I suffered a delayed start date on this Module, as I tested positive for COVID-19 the week of November 14th. Despite that, I managed to use all the technology required of us throughout. Firstly, I taughy myself how to use OpenAI API by doing the questions asked of me to do for the instructions laid out for me. I ultimately decided to base my project creation on two archaeologist characters, Bob and Jane going to the middle of a desert to excavate, on a rather sunny day. I selected a still image online to use as the basis for my creation, while sending text messages to myself to make dialogue bubbles. I took a screenshot of each one, cropped it and sent them from my phone to the computer where I pasted them from my Apple iPhone attached file onto my comic strip. It took me a while to do this, as I had to keep manuvering the images around to make them easy to follow. I only hoped I could make my design look as creative as possible, as I could only use one image in my  
+## Ephemera
 ![Screenshot (23)](https://user-images.githubusercontent.com/113065635/205521754-58ad13aa-7e0f-4855-835d-896d062cf076.png)
 ![Screenshot (24)](https://user-images.githubusercontent.com/113065635/205521789-b061df2a-d9ce-4c6d-9dca-05ace52842d3.png)
 ![Screenshot (25)](https://user-images.githubusercontent.com/113065635/205521815-3b8807b3-ee56-405b-b7c8-3bd6dfd3e092.png)
